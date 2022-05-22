@@ -1,5 +1,4 @@
 # Censo-Demografico
-# eleicoes
 
 ### de: Gabriel Hiro Furukawa👨‍💻
 
